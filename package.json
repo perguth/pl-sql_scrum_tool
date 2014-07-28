@@ -1,0 +1,14 @@
+{
+  "name": "PL/SQL-SCRUM-Tool",
+  "description": "This tool operates on the database only.",
+  "contributors": [
+    "Per Guth <mail@perguth.de> (https://perguth.de/)",
+    "Johannes-C. J. Hilbert <mckollin.john@gmail.com>"
+  ],
+  "license": "AGPLv3",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-concat": "~0.5.0"
+  }
+}
