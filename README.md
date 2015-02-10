@@ -8,7 +8,8 @@ Open a `Command Window` or `SQL*Plus`. Copy and paste the contents of `concat.pl
 
 For first steps take a look into `test_functionality.sql`.
 
-## Recompiling
+## Recompiling `concat.pls`
 
-You need to have `npm`, `grunt-cli` installed. Install all dependencies
-within the folder with the command `npm install` and then recreate `concat.pls` by running `./concat.sh`.
+You need to have `npm`, `grunt-cli` installed. Maybe you need to install `npm install`.
+
+Recreate `concat.pls` from all the `*.pls` files by running `./concat.sh`.
