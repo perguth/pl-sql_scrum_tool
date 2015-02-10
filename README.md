@@ -1,6 +1,6 @@
 # PL/SQL-SCRUM-Tool
 
-This tool operates on the database only.
+This tool operates on the database only. Tech exploration/demonstration. Not actually usable.
 
 ## Installation
 
