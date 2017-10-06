@@ -1,5 +1,7 @@
 # PL/SQL-SCRUM-Tool
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pguth/pl-sql_scrum_tool.svg)](https://greenkeeper.io/)
+
 This tool operates on the database only. Tech exploration/demonstration. Not actually usable.
 
 ## Installation
